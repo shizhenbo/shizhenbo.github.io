@@ -11,7 +11,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interests include Multimodal Learning, Adversarial Machine Learning, and Trustworthy AI.
+I graduated from the University of Science and Technology of China (USTC). My doctoral supervisors were Professor Naile Liu and Professor Liusheng Huang. In 2015, Professor Naile Liu and Academician Jianwei Pan pioneered the world's first Quantum Machine Learning Algorithm. Currently, my research interests lie in Multimodal Learning, Adversarial Machine Learning, and Quantum Machine Learning. Additionally, I have been granted observational access to the FAST (Five-hundred-meter Aperture Spherical Radio Telescope) project. I am eager to explore and make some discoveries at the intersection of computing and physics.
+
 
 # 🔥 News)
 
@@ -37,9 +38,6 @@ My research interests include Multimodal Learning, Adversarial Machine Learning,
 - *2024.01*, Selected into the "Xiaomi Young Scholars" talent project.
 - *2022.09*, Hosted an innovation plan project led by the Cyberspace Administration of China, and received funding from the China Internet Development Fund and leading Internet companies (research on self-learning machine learning algorithms based on normal traffic rules).
 
-# 📖 Educations
-- *2018.09 - 2023.06*, University of Science and Technology of China, Ph.D.
-- *2013.09 - 2017.06*, Shenyang Aerospace University, Bachelor. 
 
 # 💬 Invited Talks
 - *2023.05*, Invited to deliver a keynote report at the first Cybersecurity Innovation Forum (Wuhan, China).
