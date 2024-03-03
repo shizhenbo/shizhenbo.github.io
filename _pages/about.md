@@ -9,11 +9,9 @@ redirect_from:
 ---
 
 
-
 <span class='anchor' id='about-me'></span>
 
-My research interests include multimodal learning, adversarial machine learning, and trustworthy AI.
-
+My research interests include Multimodal Learning, Adversarial Machine Learning, and Trustworthy AI.
 
 # 🔥 News)
 
@@ -23,31 +21,35 @@ My research interests include multimodal learning, adversarial machine learning,
 
 # 📝 Selected Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- Zhidong Yu, Wei Yang, Xike Xie, **Zhenbo Shi**. "Attacks on Continual Semantic Segmentation by Perturbing Incremental Samples". in 2024 Proceedings of the AAAI Conference on Artificial Intelligence.
+- Zhidong Yu, Wei Yang, Xike Xie, **Zhenbo Shi**. "TIKP: Text-to-Image Knowledge Preservation for Continual Semantic Segmentation". in 2024 Proceedings of the AAAI Conference on Artificial Intelligence. 
+- **Zhenbo Shi**, Wei Yang, Zhenbo Xu, Zhidong Yu, Liusheng Huang. "Reinforcement Learning-based Adversarial Attacks on Object Detectors using Reward Shaping". in 2023 ACM International Conference on Multimedia.
+- **Zhenbo Shi**, Zhi Chen, Zhenbo Xu, Wei Yang, Liusheng Huang. "AtHom: Two Divergent Attentions Stimulated By Homomorphic Training in Text-to-Image Synthesis". in 2022 ACM International Conference on Multimedia.
+- Zhenbo Xu, Ajin Meng, **Zhenbo Shi**, Wei Yang, Zhi Chen, Liusheng Huang. "Continuous Copy-Paste for One-stage Multi-object Tracking and Segmentation". in 2021 IEEE International Conference on Computer Vision.
+- Zhi Chen, Xiaoqing Ye, Liang Du, Wei Yang, Liusheng Huang, Xiao Tan, **Zhenbo Shi**, Fumin Shen, Errui Ding. "AggNet for Self-supervised Monocular Depth Estimation: Go An Aggressive Step Further". in 2021 ACM International Conference on Multimedia.
+- **Zhenbo Shi**, Wei Yang, Zhenbo Xu, Zhi Chen, Yingjie Li, Haoran Zhu, Liusheng Huang. "Adversarial Attacks On Object Detectors With Limited Perturbations". in 2021 IEEE International Conference on Acoustics, Speech and Signal Processing.
+- Zhi Chen, Wei Yang, Zhenbo Xu, **Zhenbo Shi**, Liusheng Huang. "VK-Net: Category-level Point Cloud Registration with Unsupervised Rotation Invariant Keypoints". in 2021 IEEE International Conference on Acoustics, Speech and Signal Processing.
+- Yingjie Li, Wei Yang, Zhenbo Xu, Zhi Chen, **Zhenbo Shi**, Yi Zhang, Liusheng Huang. "Mask4d: 4D Convolution Network for Light Field Occlusion Removal". in 2021 IEEE International Conference on Acoustics, Speech and Signal Processing.
+- Huichao Wang, Wei Yang, Bangzhou Xin, Yangyang Geng, **Zhenbo Shi**, Liusheng Huang. "Private FLI: Anti-Gradient Leakage Recovery Data Privacy Architecture". in 2021 International Joint Conference on Neural Networks.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
-
-# 🎖 Honors and Awards
-- *2024.01* 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+# 🎖 Honors and Projects
+- *2024.01*, Selected into the "Xiaomi Young Scholars" talent project.
+- *2022.09*, Hosted an innovation plan project led by the Cyberspace Administration of China, and received funding from the China Internet Development Fund and leading Internet companies (research on self-learning machine learning algorithms based on normal traffic rules).
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2018.09 - 2023.06*, University of Science and Technology of China, Ph.D.
+- *2013.09 - 2017.06*, Shenyang Aerospace University, Bachelor. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2023.05*, Invited to deliver a keynote report at the first Cybersecurity Innovation Forum (Wuhan, China).
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Community Service
+- *CVPR 2024*, Reviewer.
+- *AAAI 2024*, Reviewer.
+- *ICCV 2023*, Reviewer.
+- *AAAI 2023*, Reviewer.
+- *ICASSP 2023*, Reviewer.
+- *ECCV 2022*, Reviewer.
+- *ICASSP 2022*, Reviewer.
+......
