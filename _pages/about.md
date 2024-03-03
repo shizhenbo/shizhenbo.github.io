@@ -16,7 +16,6 @@ My research interests include Multimodal Learning, Adversarial Machine Learning,
 # 🔥 News)
 
 - *2023.12*: Two papers were accepted by AAAI2024, congratulations!
-
 - *2023.07*: One paper was accepted by ACM MM 2023, congratulations!
 
 # 📝 Selected Publications 
@@ -25,6 +24,7 @@ My research interests include Multimodal Learning, Adversarial Machine Learning,
 - Zhidong Yu, Wei Yang, Xike Xie, **Zhenbo Shi**. "TIKP: Text-to-Image Knowledge Preservation for Continual Semantic Segmentation". in 2024 Proceedings of the AAAI Conference on Artificial Intelligence. 
 - **Zhenbo Shi**, Wei Yang, Zhenbo Xu, Zhidong Yu, Liusheng Huang. "Reinforcement Learning-based Adversarial Attacks on Object Detectors using Reward Shaping". in 2023 ACM International Conference on Multimedia.
 - **Zhenbo Shi**, Zhi Chen, Zhenbo Xu, Wei Yang, Liusheng Huang. "AtHom: Two Divergent Attentions Stimulated By Homomorphic Training in Text-to-Image Synthesis". in 2022 ACM International Conference on Multimedia.
+- **Zhenbo Shi**, Zhi Chen, Zhenbo Xu, Wei Yang, Zhidong Yu, Liusheng Huang."Shape Prior Guided Attack: Sparser Perturbations on 3D Point Clouds". in 2022 Proceedings of the AAAI Conference on Artificial Intelligence.
 - Zhenbo Xu, Ajin Meng, **Zhenbo Shi**, Wei Yang, Zhi Chen, Liusheng Huang. "Continuous Copy-Paste for One-stage Multi-object Tracking and Segmentation". in 2021 IEEE International Conference on Computer Vision.
 - Zhi Chen, Xiaoqing Ye, Liang Du, Wei Yang, Liusheng Huang, Xiao Tan, **Zhenbo Shi**, Fumin Shen, Errui Ding. "AggNet for Self-supervised Monocular Depth Estimation: Go An Aggressive Step Further". in 2021 ACM International Conference on Multimedia.
 - **Zhenbo Shi**, Wei Yang, Zhenbo Xu, Zhi Chen, Yingjie Li, Haoran Zhu, Liusheng Huang. "Adversarial Attacks On Object Detectors With Limited Perturbations". in 2021 IEEE International Conference on Acoustics, Speech and Signal Processing.
