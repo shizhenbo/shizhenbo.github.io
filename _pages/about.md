@@ -1,30 +1,25 @@
 ---
 permalink: /
 title: "Zhenbo Shi"
-excerpt: "Postdoctoral researcher, School of Computer Science and Technology, University of Science and Technology of China."
+excerpt: "Postdoctoral Researcher, School of Computer Science and Technology, University of Science and Technology of China."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
 
 <span class='anchor' id='about-me'></span>
 
 My research interests include multimodal learning, adversarial machine learning, and trustworthy AI.
 
 
-[//]: # (# 🔥 News)
+# 🔥 News)
 
-[//]: # (- *2023.12*: Our two papers were accepted by AAAI2024, congratulations!)
+- *2023.12*: Two papers were accepted by AAAI2024, congratulations!
 
-[//]: # (- *2023.07*: Our )
+- *2023.07*: One paper was accepted by ACM MM 2023, congratulations!
 
 # 📝 Selected Publications 
 
@@ -43,7 +38,7 @@ My research interests include multimodal learning, adversarial machine learning,
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.01* 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
