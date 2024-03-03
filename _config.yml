@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "The Page of Zhenbo Shi"
-description              : "University of Science and Technology of China"
+description              : "中国科学技术大学"
 repository               : "shizhenbo/shizhenbo.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhenbo Shi (石震波)"
+  name             : "Zhenbo Shi"
   avatar           : "images/SHIZHENBO.png"
   bio              : "University of Science and Technology of China"
   location         : "Hefei, China"
