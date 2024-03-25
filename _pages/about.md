@@ -11,7 +11,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I graduated from the University of Science and Technology of China (USTC). My doctoral supervisors were Professor Naile Liu and Professor Liusheng Huang. In 2015, Professor Naile Liu and Academician Jianwei Pan pioneered the world's first Quantum Machine Learning Algorithm. Currently, my research interests lie in Multimodal Learning, Adversarial Machine Learning, and Quantum Machine Learning. Additionally, I have been granted observational access to the FAST (Five-hundred-meter Aperture Spherical Radio Telescope) project. I am eager to explore and make some discoveries at the intersection of computing and physics.
+I graduated from the University of Science and Technology of China (USTC). Currently, my research interests lie in Multimodal Learning, Adversarial Machine Learning, and Quantum Machine Learning. Additionally, I have been granted observational access to the FAST (Five-hundred-meter Aperture Spherical Radio Telescope) project. I am eager to explore and make some discoveries at the intersection of computing and physics.
 
 
 # 🔥 Selected News
