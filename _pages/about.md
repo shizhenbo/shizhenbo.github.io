@@ -41,11 +41,12 @@ I graduated from the University of Science and Technology of China (USTC). Curre
 - *2022.09*, Hosted an innovation plan project led by the Cyberspace Administration of China, and received funding from the China Internet Development Fund and leading Internet companies (research on self-learning machine learning algorithms based on normal traffic rules).
 
 
-
 # 💬 Invited Talks
 - *2023.05*, Invited to deliver a keynote report at the first Cybersecurity Innovation Forum (Wuhan, China).
 
 # 💻 Services
+- *ACM MM 2024*, Reviewer.
+- *ECCV 2024*, Reviewer.
 - *CVPR 2024*, Reviewer.
 - *AAAI 2024*, Reviewer.
 - *ICCV 2023*, Reviewer.
