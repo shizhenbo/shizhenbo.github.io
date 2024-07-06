@@ -41,7 +41,8 @@ Currently, my research interests lie in Multimodal Learning, Adversarial Machine
 
 
 # 🎖 Honors and Projects
-- *2024.01*, Selected into the "Xiaomi Young Scholars" talent project.
+- *2024.02*, Excellent Project Award of the Central Cyberspace Affairs Commission Innovation Program (1\%).
+- *2024.01*, Selected into the Xiaomi Young Talents Program.
 - *2022.09*, Hosted an innovation plan project led by the Cyberspace Administration of China, and received funding from the China Internet Development Fund and leading Internet companies (research on self-learning machine learning algorithms based on normal traffic rules).
 
 
@@ -49,6 +50,7 @@ Currently, my research interests lie in Multimodal Learning, Adversarial Machine
 - *2023.05*, Invited to deliver a keynote report at the first Cybersecurity Innovation Forum (Wuhan, China).
 
 # 💻 Services
+- *NeurIPS 2024*, Reviewer.
 - *ACM MM 2024*, Reviewer.
 - *ECCV 2024*, Reviewer.
 - *CVPR 2024*, Reviewer.
