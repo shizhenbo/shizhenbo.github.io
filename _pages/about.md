@@ -20,6 +20,7 @@ Currently, my research interests lie in Multimodal Learning, Adversarial Machine
 
 # 🔥 Selected News
 
+- *2024.07*: One paper has been accepted by ACM MM 2024.
 - *2024.04*: One paper has been accepted by IJCAI 2024.
 - *2023.12*: Two papers have been accepted by AAAI 2024.
 - *2023.12*: Invited as the reviewer of CVPR 2024.
@@ -28,6 +29,7 @@ Currently, my research interests lie in Multimodal Learning, Adversarial Machine
 
 # 📝 Selected Publications 
 
+- Zhidong Yu, **Zhenbo Shi**, Xiaoman Liu, Wei Yang. "PFFAA: Prototype-based Feature and Frequency Alteration Attack for Semantic Segmentation". in 2024 ACM International Conference on Multimedia.
 - Yuxuan Zhang, **Zhenbo Shi**, Wei Yang, Shuchang Wang, Shaowei Wang, Yinxing Xue. "GenSeg: On Generating Unified Adversary for Segmentation". in 2024 International Joint Conference on Artificial Intelligence.
 - Zhidong Yu, Wei Yang, Xike Xie, **Zhenbo Shi**. "Attacks on Continual Semantic Segmentation by Perturbing Incremental Samples". in 2024 Proceedings of the AAAI Conference on Artificial Intelligence.
 - Zhidong Yu, Wei Yang, Xike Xie, **Zhenbo Shi**. "TIKP: Text-to-Image Knowledge Preservation for Continual Semantic Segmentation". in 2024 Proceedings of the AAAI Conference on Artificial Intelligence. 
