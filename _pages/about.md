@@ -65,8 +65,17 @@ Currently, my research interests lie in Multimodal Learning, Adversarial Machine
 - *2023.05*, Invited to deliver a keynote report at the first Cybersecurity Innovation Forum (Wuhan, China).
 
 # 💡 Recent Works
+![REE Image](../images/REE-1.png "REE")
 
+![CCP-1](../images/CCP-1.png "CCP")
 
+![CCP-2](../images/CCP-2.png "CCP")
+
+![IRSA](../images/IRSA-1.png "IRSA")
+
+![AAKR](../images/AAKR-1.png "AAKR")
+
+![RP-PGD](../images/RP-PGD-1.png "RP-PGD")
 
 # 💻 Services
 - *ICLR 2025*, Reviewer.
