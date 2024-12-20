@@ -20,6 +20,7 @@ Currently, my research interests lie in Multimodal Learning, Adversarial Machine
 
 # 🔥 Selected News
 
+- *2024.12*: Three papers have been accepted by AAAI 2025.
 - *2024.07*: One paper has been accepted by ACM MM 2024.
 - *2024.04*: One paper has been accepted by IJCAI 2024.
 - *2023.12*: Two papers have been accepted by AAAI 2024.
@@ -29,22 +30,27 @@ Currently, my research interests lie in Multimodal Learning, Adversarial Machine
 
 # 📝 Selected Publications 
 
-- Zhidong Yu, **Zhenbo Shi***, Xiaoman Liu, Wei Yang. "PFFAA: Prototype-based Feature and Frequency Alteration Attack for Semantic Segmentation". in 2024 ACM International Conference on Multimedia. (Corresponding Author)
-- Yuxuan Zhang, **Zhenbo Shi**, Wei Yang, Shuchang Wang, Shaowei Wang, Yinxing Xue. "GenSeg: On Generating Unified Adversary for Segmentation". in 2024 International Joint Conference on Artificial Intelligence.
-- Zhidong Yu, Wei Yang, Xike Xie, **Zhenbo Shi**. "Attacks on Continual Semantic Segmentation by Perturbing Incremental Samples". in 2024 Proceedings of the AAAI Conference on Artificial Intelligence.
-- Zhidong Yu, Wei Yang, Xike Xie, **Zhenbo Shi**. "TIKP: Text-to-Image Knowledge Preservation for Continual Semantic Segmentation". in 2024 Proceedings of the AAAI Conference on Artificial Intelligence. 
-- **Zhenbo Shi**, Wei Yang, Zhenbo Xu, Zhidong Yu, Liusheng Huang. "Reinforcement Learning-based Adversarial Attacks on Object Detectors using Reward Shaping". in 2023 ACM International Conference on Multimedia.
-- **Zhenbo Shi**, Zhi Chen, Zhenbo Xu, Wei Yang, Liusheng Huang. "AtHom: Two Divergent Attentions Stimulated By Homomorphic Training in Text-to-Image Synthesis". in 2022 ACM International Conference on Multimedia.
-- **Zhenbo Shi**, Zhi Chen, Zhenbo Xu, Wei Yang, Zhidong Yu, Liusheng Huang."Shape Prior Guided Attack: Sparser Perturbations on 3D Point Clouds". in 2022 Proceedings of the AAAI Conference on Artificial Intelligence.
-- Zhenbo Xu, Ajin Meng, **Zhenbo Shi**, Wei Yang, Zhi Chen, Liusheng Huang. "Continuous Copy-Paste for One-stage Multi-object Tracking and Segmentation". in 2021 IEEE International Conference on Computer Vision.
-- Zhi Chen, Xiaoqing Ye, Liang Du, Wei Yang, Liusheng Huang, Xiao Tan, **Zhenbo Shi**, Fumin Shen, Errui Ding. "AggNet for Self-supervised Monocular Depth Estimation: Go An Aggressive Step Further". in 2021 ACM International Conference on Multimedia.
-- **Zhenbo Shi**, Wei Yang, Zhenbo Xu, Zhi Chen, Yingjie Li, Haoran Zhu, Liusheng Huang. "Adversarial Attacks On Object Detectors With Limited Perturbations". in 2021 IEEE International Conference on Acoustics, Speech and Signal Processing.
-- Zhi Chen, Wei Yang, Zhenbo Xu, **Zhenbo Shi**, Liusheng Huang. "VK-Net: Category-level Point Cloud Registration with Unsupervised Rotation Invariant Keypoints". in 2021 IEEE International Conference on Acoustics, Speech and Signal Processing.
-- Yingjie Li, Wei Yang, Zhenbo Xu, Zhi Chen, **Zhenbo Shi**, Yi Zhang, Liusheng Huang. "Mask4d: 4D Convolution Network for Light Field Occlusion Removal". in 2021 IEEE International Conference on Acoustics, Speech and Signal Processing.
+- **Zhenbo Shi**, Xiaoman Liu, Yuxuan Zhang, Shuchang Wang, Rui Shu, Zhidong Yu, Wei Yang, Liusheng Huang. "Stop Diverse OOD Attacks: Knowledge Ensemble for Reliable Defense". in 2025 Proceedings of the AAAI Conference on Artificial Intelligence. (**CCF A**🎉)
+- Zhidong Yu, Xiaoman Liu, Jiajun Hu, **Zhenbo Shi***, Wei Yang. "AAKR: Adversarial Attack-based Knowledge Retention for Continual Semantic Segmentation". in 2025 Proceedings of the AAAI Conference on Artificial Intelligence. (**CCF A**, **Corresponding Author**🎉)
+- Yuxuan Zhang, **Zhenbo Shi***, Shuchang Wang, Wei Yang, Shaowei Wang, Yinxing Xue. "RP-PGD: Boosting Segmentation Robustness with a Region-and-Prototype Based Adversarial Attack". in 2025 Proceedings of the AAAI Conference on Artificial Intelligence. (**CCF A**, **Corresponding Author**🎉)
+- Zhidong Yu, **Zhenbo Shi***, Xiaoman Liu, Wei Yang. "PFFAA: Prototype-based Feature and Frequency Alteration Attack for Semantic Segmentation". in 2024 ACM International Conference on Multimedia. (**CCF A**, **Corresponding Author**🎉)
+- Yuxuan Zhang, **Zhenbo Shi**, Wei Yang, Shuchang Wang, Shaowei Wang, Yinxing Xue. "GenSeg: On Generating Unified Adversary for Segmentation". in 2024 International Joint Conference on Artificial Intelligence. (**CCF A**🎉)
+- Zhidong Yu, Wei Yang, Xike Xie, **Zhenbo Shi**. "Attacks on Continual Semantic Segmentation by Perturbing Incremental Samples". in 2024 Proceedings of the AAAI Conference on Artificial Intelligence. (**CCF A**🎉)
+- Zhidong Yu, Wei Yang, Xike Xie, **Zhenbo Shi**. "TIKP: Text-to-Image Knowledge Preservation for Continual Semantic Segmentation". in 2024 Proceedings of the AAAI Conference on Artificial Intelligence. (**CCF A**🎉)
+- **Zhenbo Shi**, Wei Yang, Zhenbo Xu, Zhidong Yu, Liusheng Huang. "Reinforcement Learning-based Adversarial Attacks on Object Detectors using Reward Shaping". in 2023 ACM International Conference on Multimedia. (**CCF A**🎉)
+- **Zhenbo Shi**, Zhi Chen, Zhenbo Xu, Wei Yang, Liusheng Huang. "AtHom: Two Divergent Attentions Stimulated By Homomorphic Training in Text-to-Image Synthesis". in 2022 ACM International Conference on Multimedia. (**CCF A**🎉)
+- **Zhenbo Shi**, Zhi Chen, Zhenbo Xu, Wei Yang, Zhidong Yu, Liusheng Huang."Shape Prior Guided Attack: Sparser Perturbations on 3D Point Clouds". in 2022 Proceedings of the AAAI Conference on Artificial Intelligence. (**CCF A**🎉)
+- Zhenbo Xu, Ajin Meng, **Zhenbo Shi**, Wei Yang, Zhi Chen, Liusheng Huang. "Continuous Copy-Paste for One-stage Multi-object Tracking and Segmentation". in 2021 IEEE International Conference on Computer Vision. (**CCF A**🎉)
+- Zhi Chen, Xiaoqing Ye, Liang Du, Wei Yang, Liusheng Huang, Xiao Tan, **Zhenbo Shi**, Fumin Shen, Errui Ding. "AggNet for Self-supervised Monocular Depth Estimation: Go An Aggressive Step Further". in 2021 ACM International Conference on Multimedia. (**CCF A**🎉)
+- **Zhenbo Shi**, Wei Yang, Zhenbo Xu, Zhi Chen, Yingjie Li, Haoran Zhu, Liusheng Huang. "Adversarial Attacks On Object Detectors With Limited Perturbations". in 2021 IEEE International Conference on Acoustics, Speech and Signal Processing. (**CCF B**🎉)
+- Zhi Chen, Wei Yang, Zhenbo Xu, **Zhenbo Shi**, Liusheng Huang. "VK-Net: Category-level Point Cloud Registration with Unsupervised Rotation Invariant Keypoints". in 2021 IEEE International Conference on Acoustics, Speech and Signal Processing. (**CCF B**🎉)
+- Yuxuan Zhang, Shuchang Wang, **Zhenbo Shi**, Wei Yang. "On Filling the Intra-class and Inter-class Gaps for Few-shot Segmentation". Expert Systems with Applications. (Zone 1🎉)
+- Yingjie Li, Wei Yang, Zhenbo Xu, Zhi Chen, **Zhenbo Shi**, Yi Zhang, Liusheng Huang. "Mask4d: 4D Convolution Network for Light Field Occlusion Removal". in 2021 IEEE International Conference on Acoustics, Speech and Signal Processing. (**CCF B**🎉)
 - Huichao Wang, Wei Yang, Bangzhou Xin, Yangyang Geng, **Zhenbo Shi**, Liusheng Huang. "Private FLI: Anti-Gradient Leakage Recovery Data Privacy Architecture". in 2021 International Joint Conference on Neural Networks.
 
 
 # 🎖 Honors and Projects
+- *2024.11*, Representative of BRICS Young Scientists Forum (One of 12 National Representatives).
 - *2024.07*, Project Leader of Jiangsu Province Science Foundation for Youths.
 - *2024.06*, Project Leader of China Postdoctoral Science Foundation.
 - *2024.06*, Project Leader of the Advanced Computing and Intelligence Engineering Fund.
@@ -55,9 +61,13 @@ Currently, my research interests lie in Multimodal Learning, Adversarial Machine
 
 
 # 💬 Invited Talks
+- *2024.11*, Invited to deliver a keynote speech on the security of multimodal models at the BRICS Young Scientists Forum.
 - *2023.05*, Invited to deliver a keynote report at the first Cybersecurity Innovation Forum (Wuhan, China).
 
 # 💻 Services
+- *ICLR 2025*, Reviewer.
+- *ICML 2025*, Reviewer.
+- *CVPR 2025*, Reviewer.
 - *NeurIPS 2024*, Reviewer.
 - *ACM MM 2024*, Reviewer.
 - *ECCV 2024*, Reviewer.
