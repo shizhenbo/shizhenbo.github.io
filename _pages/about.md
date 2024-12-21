@@ -19,7 +19,7 @@ Currently, my research interests lie in Multimodal Learning, Adversarial Machine
 
 
 # 🔥 Selected News
-
+- *2024.12*: One paper has been accepted by ICASSP 2025.
 - *2024.12*: Three papers have been accepted by AAAI 2025.
 - *2024.07*: One paper has been accepted by ACM MM 2024.
 - *2024.04*: One paper has been accepted by IJCAI 2024.
@@ -31,6 +31,7 @@ Currently, my research interests lie in Multimodal Learning, Adversarial Machine
 # 📝 Selected Publications 
 
 - **Zhenbo Shi**, Xiaoman Liu, Yuxuan Zhang, Shuchang Wang, Rui Shu, Zhidong Yu, Wei Yang, Liusheng Huang. "Stop Diverse OOD Attacks: Knowledge Ensemble for Reliable Defense". in 2025 Proceedings of the AAAI Conference on Artificial Intelligence. (**CCF A**🎉)
+- **Zhenbo Shi**, Zhidong Yu, Yuxuan Zhang, Shuchang Wang, Xiaoman Liu, Wei Yang, Liusheng Huang. "Tip the Scales: Achieving Balance in Adversarial Examples Across Modalities". in 2025 IEEE International Conference on Acoustics, Speech and Signal Processing. (**CCF B**🎉)
 - Zhidong Yu, Xiaoman Liu, Jiajun Hu, **Zhenbo Shi***, Wei Yang. "AAKR: Adversarial Attack-based Knowledge Retention for Continual Semantic Segmentation". in 2025 Proceedings of the AAAI Conference on Artificial Intelligence. (**CCF A**🎉, **Corresponding Author**🌻)
 - Yuxuan Zhang, **Zhenbo Shi***, Shuchang Wang, Wei Yang, Shaowei Wang, Yinxing Xue. "RP-PGD: Boosting Segmentation Robustness with a Region-and-Prototype Based Adversarial Attack". in 2025 Proceedings of the AAAI Conference on Artificial Intelligence. (**CCF A**🎉, **Corresponding Author**🌻)
 - Zhidong Yu, **Zhenbo Shi***, Xiaoman Liu, Wei Yang. "PFFAA: Prototype-based Feature and Frequency Alteration Attack for Semantic Segmentation". in 2024 ACM International Conference on Multimedia. (**CCF A**🎉, **Corresponding Author**🌻)
@@ -64,18 +65,51 @@ Currently, my research interests lie in Multimodal Learning, Adversarial Machine
 - *2024.11*, Invited to deliver a keynote speech on the security of multimodal models at the BRICS Young Scientists Forum.
 - *2023.05*, Invited to deliver a keynote report at the first Cybersecurity Innovation Forum (Wuhan, China).
 
+
 # 💡 Recent Works
-![REE Image](../images/REE-1.png "REE")
+<figure>
+  <img src="../images/REE-1.png" alt="REE Image" title="REE" style="margin-bottom: 20px;" />
+  <figcaption style="text-align: center; font-weight: bold;">REE</figcaption>
+</figure>
 
-![CCP-1](../images/CCP-1.png "CCP")
+<figure>
+  <img src="../images/CCP-1.png" alt="CCP-1" title="CCP" style="margin-bottom: 20px;" />
+  <figcaption style="text-align: center; font-weight: bold;">CCP</figcaption>
+</figure>
 
-![CCP-2](../images/CCP-2.png "CCP")
+<figure>
+  <img src="../images/CCP-2.png" alt="CCP-2" title="CCP" style="margin-bottom: 20px;" />
+  <figcaption style="text-align: center; font-weight: bold;">CCP</figcaption>
+</figure>
 
-![IRSA](../images/IRSA-1.png "IRSA")
+<figure>
+  <img src="../images/IRSA-1.png" alt="IRSA" title="IRSA" style="margin-bottom: 20px;" />
+  <figcaption style="text-align: center; font-weight: bold;">IRSA</figcaption>
+</figure>
 
-![AAKR](../images/AAKR-1.png "AAKR")
+<figure>
+  <img src="../images/AAKR-1.png" alt="AAKR" title="AAKR" style="margin-bottom: 20px;" />
+  <figcaption style="text-align: center; font-weight: bold;">AAKR</figcaption>
+</figure>
 
-![RP-PGD](../images/RP-PGD-1.png "RP-PGD")
+<figure>
+  <img src="../images/RP-PGD-1.png" alt="RP-PGD" title="RP-PGD" style="margin-bottom: 20px;" />
+  <figcaption style="text-align: center; font-weight: bold;">RP-PGD</figcaption>
+</figure>
+
+
+；# 💡 Recent Works
+；![REE Image](../images/REE-1.png "REE")
+
+；![CCP-1](../images/CCP-1.png "CCP")
+
+；![CCP-2](../images/CCP-2.png "CCP")
+
+；![IRSA](../images/IRSA-1.png "IRSA")
+
+；![AAKR](../images/AAKR-1.png "AAKR")
+
+；![RP-PGD](../images/RP-PGD-1.png "RP-PGD")
 
 # 💻 Services
 - *ICLR 2025*, Reviewer.
