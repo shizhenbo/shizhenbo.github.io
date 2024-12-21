@@ -12,8 +12,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # ⛹️ Personal Profile
-Assistant Researcher, Suzhou Institute for Advanced Research, University of Science and Technology of China
-Postdoctoral Researcher, School of Computer Science and Technology, University of Science and Technology of China
+🤖 <span style="font-family: 'Times New Roman', serif; font-weight: bold;">Assistant Researcher</span>, Suzhou Institute for Advanced Research
+
+🤖 <span style="font-family: 'Times New Roman', serif; font-weight: bold;">Postdoctoral Researcher</span>, School of Computer Science and Technology
 
 I graduated from the University of Science and Technology of China (USTC). 
 My doctoral supervisors are Professor Naile Liu and Professor Liusheng Huang. 
@@ -25,6 +26,7 @@ Currently, my research interests lie in Multimodal Learning, Adversarial Machine
 # 🔥 Selected News
 - *2024.12*: One paper has been accepted by ICASSP 2025.
 - *2024.12*: Three papers have been accepted by AAAI 2025.
+- *2024.10*: Selected as representative of BRICS Young Scientists.🎉
 - *2024.07*: One paper has been accepted by ACM MM 2024.
 - *2024.04*: One paper has been accepted by IJCAI 2024.
 - *2023.12*: Two papers have been accepted by AAAI 2024.
@@ -60,7 +62,7 @@ Currently, my research interests lie in Multimodal Learning, Adversarial Machine
 - *2024.06*, Project Leader of China Postdoctoral Science Foundation.
 - *2024.06*, Project Leader of the Advanced Computing and Intelligence Engineering Fund.
 - *2024.02*, Excellent Project Award of the Central Cyberspace Affairs Commission Innovation Program (1%).
-- *2024.01*, Selected into the Xiaomi Young Talents Program.
+- *2024.01*, Selected into the Xiaomi Young Talents Program (only 10 postdoctoral researchers from USTC were selected).
 - *2023.09*, Project Leader of the FAST Observation Project (Computational Insights into Gravitational and Magnetospheric Interactions in Pulsar Systems).
 - *2022.09*, Project Leader of the Innovation Program of Cyberspace Administration of the CPC Central Committee, and received funding from the China Internet Development Fund and leading Internet companies (research on self-learning machine learning algorithms based on normal traffic rules, during PhD).
 
