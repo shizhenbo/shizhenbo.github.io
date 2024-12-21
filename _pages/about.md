@@ -11,6 +11,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+# ⛹️ Personal Profile
+Assistant Researcher, Suzhou Institute for Advanced Research, University of Science and Technology of China
+Postdoctoral Researcher, School of Computer Science and Technology, University of Science and Technology of China
+
 I graduated from the University of Science and Technology of China (USTC). 
 My doctoral supervisors are Professor Naile Liu and Professor Liusheng Huang. 
 Professor Naile Liu and Academician Jianwei Pan once realized the quantum machine learning algorithm for the first time in the world.
@@ -79,7 +83,7 @@ Currently, my research interests lie in Multimodal Learning, Adversarial Machine
 
 <figure>
   <img src="../images/CCP-2.png" alt="CCP-2" title="CCP" style="margin-bottom: 20px;" />
-  <figcaption style="text-align: center; font-weight: bold;">CCP</figcaption>
+  <figcaption style="text-align: center; font-weight: bold;">CCPNet</figcaption>
 </figure>
 
 <figure>
@@ -98,18 +102,6 @@ Currently, my research interests lie in Multimodal Learning, Adversarial Machine
 </figure>
 
 
-；# 💡 Recent Works
-；![REE Image](../images/REE-1.png "REE")
-
-；![CCP-1](../images/CCP-1.png "CCP")
-
-；![CCP-2](../images/CCP-2.png "CCP")
-
-；![IRSA](../images/IRSA-1.png "IRSA")
-
-；![AAKR](../images/AAKR-1.png "AAKR")
-
-；![RP-PGD](../images/RP-PGD-1.png "RP-PGD")
 
 # 💻 Services
 - *ICLR 2025*, Reviewer.
