@@ -57,12 +57,12 @@ Currently, my research interests lie in Multimodal Learning, Adversarial Machine
 
 
 # 🎖 Honors and Projects
-- *2024.11*, Representative of BRICS Young Scientists Forum (One of 12 National Representatives).
+- *2024.11*, A Representative of the BRICS Young Scientists Forum (One of 12 National Representatives).
 - *2024.07*, Project Leader of Jiangsu Province Science Foundation for Youths.
 - *2024.06*, Project Leader of China Postdoctoral Science Foundation.
 - *2024.06*, Project Leader of the Advanced Computing and Intelligence Engineering Fund.
 - *2024.02*, Excellent Project Award of the Central Cyberspace Affairs Commission Innovation Program (1%).
-- *2024.01*, Selected into the Xiaomi Young Talents Program (only 10 postdoctoral researchers from USTC were selected).
+- *2024.01*, Selected into the Xiaomi Young Talents Program.
 - *2023.09*, Project Leader of the FAST Observation Project (Computational Insights into Gravitational and Magnetospheric Interactions in Pulsar Systems).
 - *2022.09*, Project Leader of the Innovation Program of Cyberspace Administration of the CPC Central Committee, and received funding from the China Internet Development Fund and leading Internet companies (research on self-learning machine learning algorithms based on normal traffic rules, during PhD).
 
