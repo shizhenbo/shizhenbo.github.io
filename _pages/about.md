@@ -12,9 +12,9 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # ⛹️ Personal Profile
-👔 <span style="font-family: 'Times New Roman', serif; font-weight: bold; font-size: 20px;">Assistant Researcher</span>, Suzhou Institute for Advanced Research
+👔 <span style="font-family: 'Times New Roman', serif; font-weight: bold; font-size: 19px;">Assistant Researcher</span>, Suzhou Institute for Advanced Research, Suzhou, China
 
-👔 <span style="font-family: 'Times New Roman', serif; font-weight: bold; font-size: 20px;">Postdoctoral Researcher</span>, School of Computer Science and Technology
+👔 <span style="font-family: 'Times New Roman', serif; font-weight: bold; font-size: 19px;">Postdoctoral Researcher</span>, School of Computer Science and Technology, Hefei, China
 
 I graduated from the University of Science and Technology of China (USTC). 
 My doctoral supervisors are Professor Naile Liu and Professor Liusheng Huang. 
@@ -57,7 +57,7 @@ Currently, my research interests lie in Multimodal Learning, Adversarial Machine
 
 
 # 🎖 Honors and Projects
-- *2024.11*, A Representative of the BRICS Young Scientists Forum (One of 12 National Representatives).
+- *2024.11*, A Representative of the BRICS Young Scientists (One of 12 National Representatives).
 - *2024.07*, Project Leader of Jiangsu Province Science Foundation for Youths.
 - *2024.06*, Project Leader of China Postdoctoral Science Foundation.
 - *2024.06*, Project Leader of the Advanced Computing and Intelligence Engineering Fund.
