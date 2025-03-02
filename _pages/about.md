@@ -12,9 +12,8 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # ⛹️ Personal Profile
-👔 <span style="font-family: 'Times New Roman', serif; font-weight: bold; font-size: 19px;">Assistant Researcher</span>, Suzhou Institute for Advanced Research, Suzhou, China
+👔 <span style="font-family: 'Times New Roman', serif; font-weight: bold; font-size: 19px;">Research Associate Professor</span>, School of Computer Science and Technology/Suzhou Institute for Advanced Research
 
-👔 <span style="font-family: 'Times New Roman', serif; font-weight: bold; font-size: 19px;">Postdoctoral Researcher</span>, School of Computer Science and Technology, Hefei, China
 
 I graduated from the University of Science and Technology of China (USTC). 
 My doctoral supervisors are Professor Naile Liu and Professor Liusheng Huang. 
