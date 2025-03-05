@@ -56,7 +56,8 @@ Currently, my research interests lie in Multimodal Learning, Adversarial Machine
 
 
 # 🎖 Honors and Projects
-- *2024.11*, A Representative of the BRICS Young Scientists (One of 12 National Representatives).
+- *2025.2*, Mozi special allowance for outstanding youth.(墨子杰出青年)
+- *2024.11*, A Representative of the BRICS Young Scientists (One of 12 National Representatives).(金砖国家青年科学家代表)
 - *2024.07*, Project Leader of Jiangsu Province Science Foundation for Youths.
 - *2024.06*, Project Leader of China Postdoctoral Science Foundation.
 - *2024.06*, Project Leader of the Advanced Computing and Intelligence Engineering Fund.
