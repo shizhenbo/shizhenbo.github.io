@@ -12,7 +12,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # ⛹️ Personal Profile
-👔 <span style="font-family: 'Times New Roman', serif; font-weight: bold; font-size: 19px;">Research Associate Professor</span>, School of Computer Science and Technology/Suzhou Institute for Advanced Research
+👔 <span style="font-family: 'Times New Roman', serif; font-weight: bold; font-size: 19px;">Research Associate Professor</span>, School of Computer Science and Technology, USTC
 
 
 I graduated from the University of Science and Technology of China (USTC). 
