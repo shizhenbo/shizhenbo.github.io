@@ -12,14 +12,19 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # ⛹️ Personal Profile
-👔 <span style="font-family: 'Times New Roman', serif; font-weight: bold; font-size: 19px;">Research Associate Professor</span>, School of Computer Science and Technology, USTC
+👔 <span style="font-family: 'Times New Roman', serif; font-weight: bold; font-size: 19px;">Research Associate Professor</span>, School of Computer Science and Technology, University of Science and Technology of China
 
 
 I graduated from the University of Science and Technology of China (USTC). 
 My doctoral supervisors are Professor Naile Liu and Professor Liusheng Huang. 
 Professor Naile Liu and Academician Jianwei Pan once realized the quantum machine learning algorithm for the first time in the world.
 Professor Huang Liusheng has served as the Vice Dean of the School of Information Science at the University of Science and Technology of China (USTC), the Chair of the Department of Computer Science, and the Executive Vice Dean of the USTC Suzhou Institute.
-Currently, my research interests lie in Multimodal Learning, Adversarial Machine Learning, and Quantum Machine Learning. Additionally, I have been granted observational access to the FAST (Five-hundred-meter Aperture Spherical Radio Telescope) project. I am eager to explore and make some discoveries at the intersection of computing and physics.
+Currently, my research interests lie in AI Security, Computer Vision and AI for Science. Additionally, I have been granted observational access to the FAST (Five-hundred-meter Aperture Spherical Radio Telescope) project. I am eager to explore and make some discoveries at the intersection of computing and physics.
+
+# 💡 Research direction
+- AI Security
+- Computer Vision
+- AI for Science
 
 
 # 🔥 Selected News
@@ -62,7 +67,7 @@ Currently, my research interests lie in Multimodal Learning, Adversarial Machine
 - *2024.06*, Project Leader of China Postdoctoral Science Foundation.
 - *2024.06*, Project Leader of the Advanced Computing and Intelligence Engineering Fund.
 - *2024.02*, Excellent Project Award of the Central Cyberspace Affairs Commission Innovation Program (1%).
-- *2024.01*, Selected into the Xiaomi Young Talents Program.
+- *2024.01*, Selected into the Xiaomi Young Talents Program.(小米青年学者)
 - *2023.09*, Project Leader of the FAST Observation Project (Computational Insights into Gravitational and Magnetospheric Interactions in Pulsar Systems).
 - *2022.09*, Project Leader of the Innovation Program of Cyberspace Administration of the CPC Central Committee, and received funding from the China Internet Development Fund and leading Internet companies (research on self-learning machine learning algorithms based on normal traffic rules, during PhD).
 
