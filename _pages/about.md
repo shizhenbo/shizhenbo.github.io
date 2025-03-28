@@ -20,6 +20,7 @@ My doctoral supervisors are Professor Naile Liu and Professor Liusheng Huang.
 Professor Naile Liu and Academician Jianwei Pan once realized the quantum machine learning algorithm for the first time in the world.
 Professor Huang Liusheng has served as the Vice Dean of the School of Information Science at the University of Science and Technology of China (USTC), the Chair of the Department of Computer Science, and the Executive Vice Dean of the USTC Suzhou Institute.
 Currently, my research interests lie in AI Security, Computer Vision and AI for Science. Additionally, I have been granted observational access to the FAST (Five-hundred-meter Aperture Spherical Radio Telescope) project. I am eager to explore and make some discoveries at the intersection of computing and physics.
+*E-mail*: zbshi@ustc.edu.cn
 
 # 💡 Research Directions
 - AI Security
