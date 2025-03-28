@@ -23,7 +23,7 @@ Currently, my research interests lie in AI Security, Computer Vision and AI for 
 
 **E-mail**: zbshi@ustc.edu.cn
  
-**Office Location**: Science and Technology Laboratory Building, West District, University of Science and Technology of China (科大西区科技实验楼西楼)
+**Office Location**: Science and Technology Laboratory Building, West District, USTC (科大西区科技实验楼西楼)
 
 # 💡 Research Directions
 - AI Security
