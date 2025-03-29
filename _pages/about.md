@@ -77,7 +77,7 @@ Currently, my research interests lie in AI Security, Computer Vision and AI for 
 
 
 # 💬 Invited Talks
-- *2024.11*, Invited to deliver a keynote speech on the security of multimodal models at the BRICS Young Scientists Forum.
+- *2024.11*, Invited to deliver a keynote speech on the security of multimodal models at the BRICS Young Scientists Forum (Sochi, Russia). 
 - *2023.05*, Invited to deliver a keynote report at the first Cybersecurity Innovation Forum (Wuhan, China).
 
 
