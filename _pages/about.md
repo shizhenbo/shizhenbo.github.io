@@ -32,7 +32,6 @@ Currently, my research interests lie in AI Security, Computer Vision and AI for 
 
 
 # 🔥 Selected News
-- *2024.12*: One paper has been accepted by ICASSP 2025.
 - *2024.12*: Three papers have been accepted by AAAI 2025.
 - *2024.10*: Selected as representative of BRICS Young Scientists.🎉
 - *2024.07*: One paper has been accepted by ACM MM 2024.
@@ -44,10 +43,10 @@ Currently, my research interests lie in AI Security, Computer Vision and AI for 
 
 # 📝 Selected Publications 
 
-- **Zhenbo Shi**, Xiaoman Liu, Yuxuan Zhang, Shuchang Wang, Rui Shu, Zhidong Yu, Wei Yang, Liusheng Huang. "Stop Diverse OOD Attacks: Knowledge Ensemble for Reliable Defense". in 2025 Proceedings of the AAAI Conference on Artificial Intelligence. (**CCF A**🎉)
-- **Zhenbo Shi**, Zhidong Yu, Yuxuan Zhang, Shuchang Wang, Xiaoman Liu, Wei Yang, Liusheng Huang. "Tip the Scales: Achieving Balance in Adversarial Examples Across Modalities". in 2025 IEEE International Conference on Acoustics, Speech and Signal Processing. (**CCF B**🎉)
 - Zhidong Yu, Xiaoman Liu, Jiajun Hu, **Zhenbo Shi***, Wei Yang. "AAKR: Adversarial Attack-based Knowledge Retention for Continual Semantic Segmentation". in 2025 Proceedings of the AAAI Conference on Artificial Intelligence. (**CCF A**🎉, **Corresponding Author**🌻)
 - Yuxuan Zhang, **Zhenbo Shi***, Shuchang Wang, Wei Yang, Shaowei Wang, Yinxing Xue. "RP-PGD: Boosting Segmentation Robustness with a Region-and-Prototype Based Adversarial Attack". in 2025 Proceedings of the AAAI Conference on Artificial Intelligence. (**CCF A**🎉, **Corresponding Author**🌻)
+- **Zhenbo Shi**, Xiaoman Liu, Yuxuan Zhang, Shuchang Wang, Rui Shu, Zhidong Yu, Wei Yang, Liusheng Huang. "Stop Diverse OOD Attacks: Knowledge Ensemble for Reliable Defense". in 2025 Proceedings of the AAAI Conference on Artificial Intelligence. (**CCF A**🎉)
+- **Zhenbo Shi**, Zhidong Yu, Yuxuan Zhang, Shuchang Wang, Xiaoman Liu, Wei Yang, Liusheng Huang. "Tip the Scales: Achieving Balance in Adversarial Examples Across Modalities". in 2025 IEEE International Conference on Acoustics, Speech and Signal Processing. (**CCF B**🎉)
 - Zhidong Yu, **Zhenbo Shi***, Xiaoman Liu, Wei Yang. "PFFAA: Prototype-based Feature and Frequency Alteration Attack for Semantic Segmentation". in 2024 ACM International Conference on Multimedia. (**CCF A**🎉, **Corresponding Author**🌻)
 - Yuxuan Zhang, **Zhenbo Shi**, Wei Yang, Shuchang Wang, Shaowei Wang, Yinxing Xue. "GenSeg: On Generating Unified Adversary for Segmentation". in 2024 International Joint Conference on Artificial Intelligence. (**CCF A**🎉)
 - Zhidong Yu, Wei Yang, Xike Xie, **Zhenbo Shi**. "Attacks on Continual Semantic Segmentation by Perturbing Incremental Samples". in 2024 Proceedings of the AAAI Conference on Artificial Intelligence. (**CCF A**🎉)
@@ -65,15 +64,15 @@ Currently, my research interests lie in AI Security, Computer Vision and AI for 
 
 
 # 🎖 Honors and Projects
-- *2025.2*, Mozi special allowance for outstanding youth.(墨子杰出青年)
-- *2024.11*, A Representative of the BRICS Young Scientists (One of 12 National Representatives).(金砖国家青年科学家代表)
-- *2024.07*, Project Leader of Jiangsu Province Science Foundation for Youths.
-- *2024.06*, Project Leader of China Postdoctoral Science Foundation.
-- *2024.06*, Project Leader of the Advanced Computing and Intelligence Engineering Fund.
-- *2024.02*, Excellent Project Award of the Central Cyberspace Affairs Commission Innovation Program (1%).
-- *2024.01*, Selected into the Xiaomi Young Talents Program.(小米青年学者)
-- *2023.09*, Project Leader of the FAST Observation Project (Computational Insights into Gravitational and Magnetospheric Interactions in Pulsar Systems).
-- *2022.09*, Project Leader of the Innovation Program of Cyberspace Administration of the CPC Central Committee, and received funding from the China Internet Development Fund and leading Internet companies (research on self-learning machine learning algorithms based on normal traffic rules, during PhD).
+- Mozi special allowance for outstanding youth.(墨子杰出青年)
+- A Representative of the BRICS Young Scientists (One of 12 National Representatives).(金砖国家青年科学家代表)
+- Project Leader of Jiangsu Province Science Foundation.
+- Project Leader of the Advanced Computing and Intelligence Engineering Fund.
+- Excellent Project Award of the Central Cyberspace Affairs Commission Innovation Program (1%).
+- Selected into the Xiaomi Young Talents Program.(小米青年学者)
+- Project Leader of the FAST Observation Project.
+- Project Leader of the Innovation Program of Cyberspace Administration of the CPC Central Committee, and received funding from the China Internet Development Fund and leading Internet companies (research on self-learning machine learning algorithms based on normal traffic rules, during PhD).
+- Project Leader of China Postdoctoral Science Foundation.
 
 
 # 💬 Invited Talks
