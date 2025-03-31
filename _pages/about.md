@@ -14,12 +14,11 @@ redirect_from:
 # ⛹️ Personal Profile
 👔 <span style="font-family: 'Times New Roman', serif; font-weight: bold; font-size: 19px;">Research Associate Professor</span>, School of Computer Science and Technology, University of Science and Technology of China
 
-
-I graduated from the University of Science and Technology of China (USTC). 
-My doctoral supervisors are Professor Naile Liu and Professor Liusheng Huang. 
-Professor Naile Liu and Academician Jianwei Pan once realized the quantum machine learning algorithm for the first time in the world.
-Professor Huang Liusheng has served as the Vice Dean of the School of Information Science at the University of Science and Technology of China (USTC), the Chair of the Department of Computer Science, and the Executive Vice Dean of the USTC Suzhou Institute.
-Currently, my research interests lie in AI Security, Computer Vision and AI for Science. Additionally, I have been granted observational access to the FAST (Five-hundred-meter Aperture Spherical Radio Telescope) project. I am eager to explore and make some discoveries at the intersection of computing and physics.
+My lab is the Key Laboratory of Next Generation Web Services Computing.
+My research interests include AI Security, Computer Vision and AI for Science.
+Currently, my research group has postdoctoral fellows, doctoral students and master students.
+If you are willing to explore, you can join my research group and we will make new discoveries together.
+My life motto: Life is about exploration and thinking.
 
 **E-mail**: zbshi@ustc.edu.cn
  
