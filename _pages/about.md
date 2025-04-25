@@ -62,16 +62,11 @@ My life motto: Life is about exploration and thinking.
 - Huichao Wang, Wei Yang, Bangzhou Xin, Yangyang Geng, **Zhenbo Shi**, Liusheng Huang. "Private FLI: Anti-Gradient Leakage Recovery Data Privacy Architecture". in 2021 International Joint Conference on Neural Networks.
 
 
-# 🎖 Honors and Projects
+# 🎖 Honors
 - Mozi special allowance for outstanding youth.(墨子杰出青年)
 - A Representative of the BRICS Young Scientists (One of 12 National Representatives).(金砖国家青年科学家代表)
-- Project Leader of Jiangsu Province Science Foundation.
-- Project Leader of the Advanced Computing and Intelligence Engineering Fund.
 - Excellent Project Award of the Central Cyberspace Affairs Commission Innovation Program (1%).
 - Selected into the Xiaomi Young Talents Program.(小米青年学者)
-- Project Leader of the FAST Observation Project.
-- Project Leader of the Innovation Program of Cyberspace Administration of the CPC Central Committee, and received funding from the China Internet Development Fund and leading Internet companies (research on self-learning machine learning algorithms based on normal traffic rules, during PhD).
-- Project Leader of China Postdoctoral Science Foundation.
 
 
 # 💬 Invited Talks
