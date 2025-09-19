@@ -33,8 +33,10 @@ My life motto: Life is about exploration and thinking.
 
 
 # 🔥 Selected News
+- *2025.9*: One paper has been accepted by NeurIPS 2025.
+- *2025.7*: One paper has been accepted by TDSC.
 - *2024.12*: Three papers have been accepted by AAAI 2025.
-- *2024.10*: Selected as representative of BRICS Young Scientists.🎉
+- *2024.10*: Selected as representative of BRICS Young Scientists.
 - *2024.07*: One paper has been accepted by ACM MM 2024.
 - *2024.04*: One paper has been accepted by IJCAI 2024.
 - *2023.12*: Two papers have been accepted by AAAI 2024.
@@ -44,6 +46,7 @@ My life motto: Life is about exploration and thinking.
 
 # 📝 Selected Publications 
 
+- Yuxuan Zhang, **Zhenbo Shi**, Han ye, Shuchang Wang, Zhidong Yu, Shaowei Wang, Wei Yang. "Leaving No OOD Instance Behind: Instance-Level OOD Fine-Tuning for Anomaly Segmentation". in 2025 Annual Conference on Neural Information Processing Systems. (**CCF A**🎉)
 - Zhidong Yu, Xiaoman Liu, Jiajun Hu, **Zhenbo Shi***, Wei Yang. "AAKR: Adversarial Attack-based Knowledge Retention for Continual Semantic Segmentation". in 2025 Proceedings of the AAAI Conference on Artificial Intelligence. (**CCF A**🎉)
 - Yuxuan Zhang, **Zhenbo Shi***, Shuchang Wang, Wei Yang, Shaowei Wang, Yinxing Xue. "RP-PGD: Boosting Segmentation Robustness with a Region-and-Prototype Based Adversarial Attack". in 2025 Proceedings of the AAAI Conference on Artificial Intelligence. (**CCF A**🎉)
 - **Zhenbo Shi**, Zhidong Yu, Yuxuan Zhang, Wei Yang, Liusheng Huang. "A Unified Perspective from Diffuse Deviation to Target Hijacking". in IEEE Transactions on Dependable and Secure Computing. (**CCF A**🎉)
