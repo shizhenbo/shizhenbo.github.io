@@ -27,9 +27,9 @@ My life motto: Life is about exploration and thinking.
 **Office Location**: Science and Technology Laboratory Building, West District, USTC (科大西区科技实验楼西楼)
 
 # 💡 Research Directions
-- AI Security
-- Computer Vision
 - AI for Science
+- Computer Vision
+- AI Security
 
 
 # 🔥 Selected News
@@ -69,6 +69,8 @@ My life motto: Life is about exploration and thinking.
 
 
 # 🎖 Honors
+- Asia-Pacific AI Education Outstanding Young Scholar
+- CCF-Baidu Open Fund Scholar
 - Mozi special allowance for outstanding youth.(墨子杰出青年)
 - A Representative of the BRICS Young Scientists (One of 12 National Representatives).(金砖国家青年科学家代表)
 - Lead a research project funded by the CCF-Baidu Open Fund​.
