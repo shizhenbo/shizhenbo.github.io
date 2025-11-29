@@ -73,7 +73,6 @@ My life motto: Life is about exploration and thinking.
 - CCF-Baidu Open Fund Scholar
 - Mozi special allowance for outstanding youth.(墨子杰出青年)
 - A Representative of the BRICS Young Scientists (One of 12 National Representatives).(金砖国家青年科学家代表)
-- Lead a research project funded by the CCF-Baidu Open Fund​.
 - Excellent Project Award of the Central Cyberspace Affairs Commission Innovation Program (1%).
 - Selected into the Xiaomi Young Talents Program.(小米青年学者)
 
