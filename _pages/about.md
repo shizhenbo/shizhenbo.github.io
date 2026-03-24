@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Zhenbo Shi"
-excerpt: "Postdoctoral Researcher, School of Computer Science and Technology, University of Science and Technology of China."
+excerpt: "Research Associate Professor, School of Computer Science and Technology, University of Science and Technology of China."
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,11 +14,10 @@ redirect_from:
 # ⛹️ Personal Profile
 👔 <span style="font-family: 'Times New Roman', serif; font-weight: bold; font-size: 19px;">Research Associate Professor</span>, School of Computer Science and Technology, University of Science and Technology of China
 
-My lab is the Key Laboratory of Next Generation Web Services Computing.
-My research interests include AI Security, Computer Vision and AI for Science.
-Currently, my research group has postdoctoral fellows, doctoral students and master students.
-If you are willing to explore, you can join my research group and we will make new discoveries together.
-My life motto: Life is about exploration and thinking.
+The main research directions of our group include the foundational theory and architecture of large models, AI for Science, and computer vision.
+Currently, my research group consists of postdoctoral researchers, doctoral students, and master’s students.
+If you are passionate about exploration, you are welcome to join my research team, and we will make new discoveries together.
+My life motto: Life lies in exploration and reflection.
 
 **E-mail**: zbshi@ustc.edu.cn
 
@@ -27,9 +26,9 @@ My life motto: Life is about exploration and thinking.
 **Office Location**: Science and Technology Laboratory Building, West District, USTC (科大西区科技实验楼西楼)
 
 # 💡 Research Directions
+- Foundational Theory and Architecture of Large Models
 - AI for Science
 - Computer Vision
-- AI Security
 
 
 # 🔥 Selected News
@@ -75,6 +74,15 @@ My life motto: Life is about exploration and thinking.
 - A Representative of the BRICS Young Scientists (One of 12 National Representatives).(金砖国家青年科学家代表)
 - Excellent Project Award of the Central Cyberspace Affairs Commission Innovation Program (1%).
 - Selected into the Xiaomi Young Talents Program.(小米青年学者)
+
+# 💡 Projects
+-  National Natural Science Foundation of China (T Department Comprehensive Research Special Project) (主持)
+-  CCF-Baidu Open Fund (主持)
+-  Youth Innovation Fund of University of Science and Technology of China (主持)
+-  Natural Science Foundation of Jiangsu Province (主持)
+-  Laboratory for Advanced Computing and Intelligence Engineering Fund (主持)
+-  Central Cyberspace Administration Innovation Plan Project (主持)
+-  ......
 
 
 # 💬 Invited Talks
