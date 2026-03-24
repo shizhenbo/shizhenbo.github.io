@@ -45,7 +45,7 @@ My life motto: Life lies in exploration and reflection.
 
 # 📝 Selected Publications 
 
-- Yuxuan Zhang, **Zhenbo Shi**, Han ye, Shuchang Wang, Zhidong Yu, Shaowei Wang, Wei Yang. "Leaving No OOD Instance Behind: Instance-Level OOD Fine-Tuning for Anomaly Segmentation". in 2025 Annual Conference on Neural Information Processing Systems. (**CCF A**🎉)
+- Yuxuan Zhang, **Zhenbo Shi***, Han ye, Shuchang Wang, Zhidong Yu, Shaowei Wang, Wei Yang. "Leaving No OOD Instance Behind: Instance-Level OOD Fine-Tuning for Anomaly Segmentation". in 2025 Annual Conference on Neural Information Processing Systems. (**CCF A**🎉)
 - Zhidong Yu, Xiaoman Liu, Jiajun Hu, **Zhenbo Shi***, Wei Yang. "AAKR: Adversarial Attack-based Knowledge Retention for Continual Semantic Segmentation". in 2025 Proceedings of the AAAI Conference on Artificial Intelligence. (**CCF A**🎉)
 - Yuxuan Zhang, **Zhenbo Shi***, Shuchang Wang, Wei Yang, Shaowei Wang, Yinxing Xue. "RP-PGD: Boosting Segmentation Robustness with a Region-and-Prototype Based Adversarial Attack". in 2025 Proceedings of the AAAI Conference on Artificial Intelligence. (**CCF A**🎉)
 - **Zhenbo Shi**, Zhidong Yu, Yuxuan Zhang, Wei Yang, Liusheng Huang. "A Unified Perspective from Diffuse Deviation to Target Hijacking". in IEEE Transactions on Dependable and Secure Computing. (**CCF A**🎉)
